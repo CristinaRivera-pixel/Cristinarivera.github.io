@@ -8,6 +8,16 @@ image: Rplot.png
 
 ![Generated Image used with color #389912](Rplot.png)
 
+[Michael Hansmeyer](https://www.michael-hansmeyer.com/muqarnas)
+
+Michael Hansmeyer is a post modern architect who uses algorithm architecture techniques and CAD software to generate complex structures. Has many structures on his website of architecture he built using these techniques
+
+Here are two of my favorite
+
+1.  [Muqarnas](https://www.michael-hansmeyer.com/muqarnas)
+
+2.  [Zauberfloete](https://www.michael-hansmeyer.com/zauberfloete)
+
 ![](images/average-commute-to-work-by-state-city.jpg)
 
 This is a chart that is illustrating the average commute time in America. I just wanted to point out a few observations about this chart. Made by TitleMax using cenus.gov and trulia.com as their sources.
