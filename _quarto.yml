@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Blog"
+  navbar:
+    background: "#F7A76C"
+    left: 
+      - "Cristina Rivera"
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme:
+      light: Minty
+      dark: Darkly
+
+    css: styles.css
+    highlight-style: "espresso"
+
+editor: visual
+
