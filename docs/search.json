@@ -28,11 +28,18 @@
     "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "posts/Assignment 2/index.html",
+    "href": "posts/Assignment 2/index.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "For Assignment 2 I made a few graphics that utilizes the Happy planet data set\n\n\n\nPie\n\n\nEverywhere I looked, it said that pie graphs were not great ways of representing data for a few reasons, one of them being that its not a great way for the viewer to precisely see which slices are bigger or smaller. But for this example I think it was fine especially since there were some regions that were a lot more represented then others.\n\nI thought it might be interesting to look at this graph to see if there was anything that stuck out immediately and i was surprised that even though it generally trends up for GDP and life expectancy, it wasn’t as linear of a relation as expected."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Data Visualization Blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 9, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData\n\n\n\n\n\n\n\nCristina Rivera\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\nCristina Rivera\n\n\nOct 18, 2022\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 9, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData\n\n\n\n\n\n\n\nCristina Rivera\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\nCristina Rivera\n\n\nOct 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

@@ -1,9 +1,11 @@
 Assignment 2
 
-For Assignment 2 I made a few graphics that utilizes the [happy planet dataset](https://happyplanetindex.org).
+For Assignment 2 I made a few graphics that utilizes the [Happy planet data set](https://happyplanetindex.org)
 
-![Pie graph of percentages of countries in the Dataset](376d2ed2-b0f2-4b96-84e4-24f0823abc3a.png)
+![Pie](376d2ed2-b0f2-4b96-84e4-24f0823abc3a.png)
 
 Everywhere I looked, it said that pie graphs were not great ways of representing data for a few reasons, one of them being that its not a great way for the viewer to precisely see which slices are bigger or smaller. But for this example I think it was fine especially since there were some regions that were a lot more represented then others.
 
-![Gdp per capita range is 10k to 100k for GDP and 45 to 85 for the life expectancy. I thought it might be interesting to look at this graph to see if there was anything that stuck out immediately and i was surprised that even though it generally trends up for GDP and life expectancy, it wasn't as linear of a relation as expected.](b5a5c3d4-a3aa-41fe-9266-4596b9ff2f83.png)
+![](b5a5c3d4-a3aa-41fe-9266-4596b9ff2f83.png)
+
+I thought it might be interesting to look at this graph to see if there was anything that stuck out immediately and i was surprised that even though it generally trends up for GDP and life expectancy, it wasn't as linear of a relation as expected.

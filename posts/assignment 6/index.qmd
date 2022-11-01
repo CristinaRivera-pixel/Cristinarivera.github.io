@@ -1,0 +1,11 @@
+---
+title: "Assignment 6"
+
+author: "Cristina Rivera"
+
+date: "2022-10-18"
+---
+
+This will take you to the shiny app
+
+[Shiny App](https://cristinarivera.shinyapps.io/assignment6/)
