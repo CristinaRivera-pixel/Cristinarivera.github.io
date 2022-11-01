@@ -14,6 +14,13 @@
     "text": "Michael Hansmeyer\nMichael Hansmeyer is a post modern architect who uses algorithm architecture techniques and CAD software to generate complex structures. Has many structures on his website of architecture he built using these techniques\nHere are two of my favorite\n\nMuqarnas\nZauberfloete\n\n\nThis is a chart that is illustrating the average commute time in America. I just wanted to point out a few observations about this chart. Made by TitleMax using cenus.gov and trulia.com as their sources.\nSource\n\nColors\n\nThe first thing that stands out to me is the yellow color which first brings our attention first to which states have the longest commute time in cars which is the primary method of transportation for most people (with the exception for some cities)\n\nThe font\n\nThe font is clear and legible. The colors are properly contrasting along the border to bring attention to the most important parts without distracting the reader too much\n\nThe Graph itself\n\nVery rich in Data. It uses many different types of visualizations for example, it uses a heat map so that you can quickly locate the states with the longest commutes, labeled cities of the longest commutes and the shortest commutes. The compactness of the graph and the amount of data could be distracting."
   },
   {
+    "objectID": "posts/assignment 6/index.html",
+    "href": "posts/assignment 6/index.html",
+    "title": "Assignment 6",
+    "section": "",
+    "text": "Shiny App"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
@@ -25,7 +32,7 @@
     "href": "index.html",
     "title": "Data Visualization Blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 9, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData\n\n\n\n\n\n\n\nCristina Rivera\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nSep 9, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData\n\n\n\n\n\n\n\nCristina Rivera\n\n\nSep 12, 2022\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\nCristina Rivera\n\n\nOct 18, 2022\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -33,12 +40,5 @@
     "title": "Cristina Rivera",
     "section": "",
     "text": "About this blog"
-  },
-  {
-    "objectID": "posts/Assignment 2/index.html",
-    "href": "posts/Assignment 2/index.html",
-    "title": "My Blog",
-    "section": "",
-    "text": "For Assignment 2 I made a few graphics that utilizes the happy planet dataset.\n\n\n\nPie graph of percentages of countries in the Dataset\n\n\nEverywhere I looked, it said that pie graphs were not great ways of representing data for a few reasons, one of them being that its not a great way for the viewer to precisely see which slices are bigger or smaller. But for this example I think it was fine especially since there were some regions that were a lot more represented then others.\n\n\n\nGdp per capita range is 10k to 100k for GDP and 45 to 85 for the life expectancy. I thought it might be interesting to look at this graph to see if there was anything that stuck out immediately and i was surprised that even though it generally trends up for GDP and life expectancy, it wasn’t as linear of a relation as expected."
   }
 ]
